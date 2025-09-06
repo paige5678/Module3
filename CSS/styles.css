@@ -14,7 +14,7 @@ header {
    padding-right:10px;
     border-right-style:solid;
     border-right-width:15px;
-    border-right-color: navy;
+    border-right-color: #4B9CD3;
   }
   
   aside::first-line {
@@ -46,16 +46,16 @@ header {
      padding:10px;
     border-right-style:solid;
     border-right-width:2px;
-    border-right-color: #008000;
+    border-right-color: #32CD32;
     border-left-style:solid;
     border-left-width:30px;
-    border-left-color: #008000;
+    border-left-color: #32CD32;
     border-top-style:solid;
     border-top-width:2px;
-    border-top-color: #008000;
+    border-top-color: #32CD32;
     border-bottom-style:solid;
     border-bottom-width:2px;
-    border-bottom-color: #008000;
+    border-bottom-color: #32CD32;
   }
   
   footer {
